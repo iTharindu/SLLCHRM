@@ -27,4 +27,7 @@ $(document).ready(function(){
 	});
 });
 
+function downloadHold() {
+  alert("Download will be available after 8.00 PM");
+}
 
